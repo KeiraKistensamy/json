@@ -1,3 +1,14 @@
 {
-    "data" : ["kiki", "has", "a", "job"]
+    "products": [
+        {
+            "prodID": 1,
+            "prodName": "Product 1",
+            "prodPrice": 10.99,
+            "prodDescription": "This is product 1",
+            "prodImage": "https://example.com/product1.jpg",
+            "prodRating": 4.5
+            
+        }
+    ]
+
 }
