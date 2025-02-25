@@ -7,7 +7,78 @@
             "prodDescription": "This is product 1",
             "prodImage": "https://example.com/product1.jpg",
             "prodRating": 4.5
-            
+        },
+        {
+            "prodID": 2,
+            "prodName": "Product 2",
+            "prodPrice": 9.99,
+            "prodDescription": "This is product 2",
+            "prodImage": "https://example.com/product2.jpg",
+            "prodRating": 4.8
+        },
+        {
+            "prodID": 3,
+            "prodName": "Product 3",
+            "prodPrice": 12.99,
+            "prodDescription": "This is product 3",
+            "prodImage": "https://example.com/product3.jpg",
+            "prodRating": 4.2
+        },
+        {
+            "prodID": 4,
+            "prodName": "Product 4",
+            "prodPrice": 11.99,
+            "prodDescription": "This is product 4",
+            "prodImage": "https://example.com/product4.jpg",
+            "prodRating": 4.6
+        },
+        {
+            "prodID": 5,
+            "prodName": "Product 5",
+            "prodPrice": 13.99,
+            "prodDescription": "This is product 5",
+            "prodImage": "https://example.com/product5.jpg",
+            "prodRating": 4.9
+        },
+        {
+            "prodID": 6,
+            "prodName": "Product 6",
+            "prodPrice": 14.99,
+            "prodDescription": "This is product 6",
+            "prodImage": "https://example.com/product6.jpg",
+            "prodRating": 4.3
+        },
+        {
+            "prodID": 7,
+            "prodName": "Product 7",
+            "prodPrice": 15.99,
+            "prodDescription": "This is product 7",
+            "prodImage": "https://example.com/product7.jpg",
+            "prodRating": 4.7
+        },
+        {
+            "prodID": 8,
+            "prodName": "Product 8",
+            "prodPrice": 16.99,
+            "prodDescription": "This is product 8",
+            "prodImage": "https://example.com/product8.jpg",
+            "prodRating": 4.1
+        },
+        {
+            "prodID": 9,
+            "prodName": "Product 9",
+            "prodPrice": 17.99,
+            "prodDescription": "This is product 9",
+            "prodImage": "https://example.com/product9.jpg",
+            "prodRating": 4.5
+        },
+        {
+            "prodID": 10,
+            "prodName": "Product 10",
+            "prodPrice": 18.99,
+            "prodDescription": "This is product 10",
+            "prodImage": "https://example.com/product10.jpg",
+            "prodRating": 4.9
         }
     ]
 
