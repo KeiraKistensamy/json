@@ -5,7 +5,7 @@
             "prodName": "JBL Live 770NC Noise Cancelling Wireless Over-Ear Headphones",
             "prodPrice": 1899,
             "prodDescription": "JBL Signature Sound and surround sound. Along with powerful JBL Signature Sound, the 40mm drivers offer immersive JBL Spatial Sound that turns any stereo content from any device into virtual surround sound.\nBluetooth with LE audio supported (*): Wirelessly stream high-quality sound even at lower bit rates with the help of the latest Bluetooth technology. Audio Mode gets you the best available sound, while Video Mode makes sure the sound and visuals of your movies and games are always in sync.\nTrue Adaptive Noise Cancelling with Smart Ambient: With four noise-sensing mics, True Adaptive Noise Cancelling means zero distractions, whether it’s time to focus on your studies—or get your groove on. And if you want to hear the world around you without removing your headphones, Smart Ambient sharpens the sounds of your surroundings.\nUp to 65 hours* of battery life and speed charge: For long-lasting fun, listen wirelessly for up to 50 hours and recharge the battery in as little as 2 hours with the convenient Type-C USB cable. And if you’re in a hurry, a quick 5-minute recharge gives you 4 additional hours of music. (*Battery life: BT on / ANC off)\nAuto play and pause: Take the headphones off, the music stops. Put them back on, the music starts again. It genuinely couldn’t be simpler.",
-            "prodImage": "https://example.com/product1.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod1hp.jpg",
             "prodRating": 4.4
         },        
         {
@@ -13,7 +13,7 @@
             "prodName": "Sony WH-CH520 Bluetooth On-Ear Headphones Beige",
             "prodPrice": 999,
             "prodDescription": "Up to 50 hours of battery life.\n360 Reality Audio compatible.\nManufactured using recycled materials.\nHands-free calling.\nMulti-point connection.\nConnect app and easy pairing.\nSupports voice assistant.\n1-year warranty.",
-            "prodImage": "https://example.com/product2.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod2hp.webp",
             "prodRating": 4.5
         },        
         {
@@ -21,7 +21,7 @@
             "prodName": "Volkano Falcon Series Auxiliary Headphones with Mic",
             "prodPrice": 149,
             "prodDescription": "Large headphones with soft ear covers for maximum comfort.\nThe padded headband ensures a snug and comfortable fit during periods of extended wear.\nA built-in mic allows for walk and talk hands-free calling.\nCompatible with most mobile phones, MP3 players and other devices with a",
-            "prodImage": "https://example.com/product3.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod3hp.jpg",
             "prodRating": 4
         },
         {
@@ -29,7 +29,7 @@
             "prodName": "Product 5",
             "prodPrice": 349.99,
             "prodDescription": "Introducing the Volkano Pebble Bluetooth White/Khaki Headphones, designed for ultimate connectivity with Bluetooth Version 5.0. Enjoy a wireless range of 10m and powerful 40mm drivers for crystal-clear sound. With a 600mAh battery, these headphones offer up to 40 hours of playback time. Get immersed in your favorite tunes. The Volkano Pebble is the perfect accessory for music lovers on the go.",
-            "prodImage": "https://example.com/product5.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod4hp.webp",
             "prodRating": 4.9
         },
         {
@@ -37,7 +37,7 @@
             "prodName": "Generic HeadPods Max Headphone (Bluetooth + card + radio + talk)",
             "prodPrice": 435.99,
             "prodDescription": "The concave structure is adopted inside, which greatly increases the movement space of the ears. The outer layer is covered with a special mesh cloth, so there is no pressure when wearing it. The top mesh is made of tight and breathable fabric, which helps to distribute the weight and reduce the pressure on the head.",
-            "prodImage": "https://example.com/product4.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod5hp.jpg",
             "prodRating": 3
         },
         {
@@ -45,40 +45,24 @@
             "prodName": "Volkano AUDIO BUNDLE",
             "prodPrice": 799,
             "prodDescription": "This is product 6",
-            "prodImage": "https://example.com/product6.jpg",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod6hp.webp",
             "prodRating": 4.3
         },
         {
             "prodID": 7,
-            "prodName": "Product 7",
-            "prodPrice": 799,
-            "prodDescription": "This is product 7",
-            "prodImage": "https://example.com/product7.jpg",
+            "prodName": "Volkano Sleek Series True Wireless Earphones",
+            "prodPrice": 249,
+            "prodDescription": "Includes charging cable for earbud recharging.\nVolkano Sleek TWS Earphones for wireless, on-the-go audio.\nCompact and cable-free design.\nVoice assistant support for convenience",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod7hp.jpg",
             "prodRating": 4.7
         },
         {
             "prodID": 8,
-            "prodName": "Product 8",
-            "prodPrice": 16.99,
-            "prodDescription": "This is product 8",
-            "prodImage": "https://example.com/product8.jpg",
-            "prodRating": 4.1
-        },
-        {
-            "prodID": 9,
-            "prodName": "Product 9",
-            "prodPrice": 17.99,
-            "prodDescription": "This is product 9",
-            "prodImage": "https://example.com/product9.jpg",
-            "prodRating": 4.5
-        },
-        {
-            "prodID": 10,
-            "prodName": "Product 10",
-            "prodPrice": 18.99,
-            "prodDescription": "This is product 10",
-            "prodImage": "https://example.com/product10.jpg",
-            "prodRating": 4.9
+            "prodName": "Amplify Zodiac Series TWS Earphones with Charging Case",
+            "prodPrice": 299.99,
+            "prodDescription": "True wireless design for freedom of movement.\nProvides superior sound quality.\nCarry case provides an additional battery life.\nComes with a charging case for extended use",
+            "prodImage": "https://keirakistensamy.github.io/hpImg/images/prod8hp.jpg",
+            "prodRating": 5
         }
     ]
 
